@@ -1,0 +1,811 @@
+Added Component: Designator=C1(FP-C0603C-CF-MFG)
+Added Component: Designator=C2(FP-C0603C-CF-MFG)
+Added Component: Designator=C3(FP-C0603C-CF-MFG)
+Added Component: Designator=C4(FP-C0603C-CF-MFG)
+Added Component: Designator=C5(FP-GCJ31C-0_4-IPC_C)
+Added Component: Designator=C6(FP-GCJ31C-0_4-IPC_C)
+Added Component: Designator=C7(CAPC1608X87X45ML20T05)
+Added Component: Designator=C8(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C9(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C10(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C11(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C12(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C13(FP-CL32-IPC_C)
+Added Component: Designator=C14(FP-CL32-IPC_C)
+Added Component: Designator=C15(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C16(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C17(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C18(CAPC1005X60X30LL05T10)
+Added Component: Designator=C19(FP-GCM21B-0_15-IPC_C)
+Added Component: Designator=C20(CAPC1608X87X45ML20T05)
+Added Component: Designator=C21(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C22(FP-GCM21B-0_15-IPC_C)
+Added Component: Designator=C23(FP-CL32-IPC_C)
+Added Component: Designator=C24(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C25(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C26(FP-CL32-IPC_C)
+Added Component: Designator=C27(FP-CL32-IPC_C)
+Added Component: Designator=C28(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C29(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C30(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C31(CAPC1005X60X30LL05T10)
+Added Component: Designator=C32(FP-GCM21B-0_15-IPC_C)
+Added Component: Designator=C33(CAPC1608X87X45ML20T05)
+Added Component: Designator=C34(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C35(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C36(FP-CGA5L-0_3-0_1-IPC_A)
+Added Component: Designator=C37(FP-CL32-IPC_C)
+Added Component: Designator=C38(FP-CL32-IPC_C)
+Added Component: Designator=C39(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C40(FP-CGA5L-0_3-0_1-IPC_A)
+Added Component: Designator=C41(FP-CL32-IPC_C)
+Added Component: Designator=C42(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C43(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C44(FP-GRJ32E-0_4-0_35-MFG)
+Added Component: Designator=C45(CAPC1005X60X30LL05T10)
+Added Component: Designator=C46(FP-GCM21B-0_15-IPC_C)
+Added Component: Designator=C47(CAPC1608X87X45ML20T05)
+Added Component: Designator=C48(CAPC1608X87X45ML20T05)
+Added Component: Designator=C49(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=C50(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=C51(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=C52(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=C53(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=C54(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C55(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C56(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C57(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C58(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C59(FP-0805-L_2_0_0_2-W_1_25-IPC_A)
+Added Component: Designator=C60(FP-0805-L_2_0_0_2-W_1_25-IPC_A)
+Added Component: Designator=C61(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C62(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C63(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C64(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C65(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C66(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C67(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C68(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C69(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C70(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C71(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C72(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C73(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C74(FP-0805-L_2_0_0_2-W_1_25-IPC_A)
+Added Component: Designator=C75(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C76(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C77(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C78(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C79(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C80(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C81(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C82(FP-0805-L_2_0_0_2-W_1_25-IPC_A)
+Added Component: Designator=C83(CAPC1005X60X30LL05T10)
+Added Component: Designator=C84(CAPC1005X60X30LL05T10)
+Added Component: Designator=C85(CAPC1005X60X30LL05T10)
+Added Component: Designator=C86(CAPC1005X60X30LL05T10)
+Added Component: Designator=C87(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C88(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=C?(FP-0603B104K500CT-IPC_C)
+Added Component: Designator=C?(FP-1206-L_3_2_0_15-W_1_6-IPC_B)
+Added Component: Designator=C?(FP-GCJ21B-0_3-MFG)
+Added Component: Designator=CR?(SOT23-5L_STM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STWD100NYWY3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=D1(FP-SMAJ-CA-MFG)
+Added Component: Designator=D2(FP-017AG-MFG)
+Added Component: Designator=D3(FP-LTST-C190KGKT-MFG)
+Added Component: Designator=D4(FP-LTST-C190KGKT-MFG)
+Added Component: Designator=D5(FP-LTST-C190KGKT-MFG)
+Added Component: Designator=D6(FP-LTST-C190KGKT-MFG)
+Added Component: Designator=D7(FP-LTST-C190KGKT-MFG)
+Added Component: Designator=D8(FP-95402-MFG)
+Added Component: Designator=D?(FP-95402-MFG)
+Added Component: Designator=D?(FP-95402-MFG)
+Added Component: Designator=F1(FP-MINISMDC260F-16-2-MFG)
+Add Component: Footprint Not Found HDMI-SMD_KH-HDMI-0001
+Add Component: Footprint Not Found FP-DF40HC_3_0_-100DS-0_4V-MFG
+Add Component: Footprint Not Found FP-DF40HC_3_0_-100DS-0_4V-MFG
+Add Component: Footprint Not Found TQFP64_PT_MCH-M
+Added Component: Designator=J?(FP-M20-9990245-MFG)
+Added Component: Designator=L1(IND-SMD_L7.0-W6.6_MCW-0650-220)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "cjiang(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FXL0650-3R3-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "FXL0650-3R3-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C485362"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND-SMD_L7.0-W6.6_FAUL06XX)
+Add component (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Zoomdo(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ZD0630-2R2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "ZD0630-2R2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C48031446"; VariantName = "[No Variations]"
+Added Component: Designator=L3(FP-IHLP-2525CZ-FP_2_413x3-MFG)
+Added Component: Designator=P?(SMTC-TSW-105-05-X-S)
+Added Component: Designator=Q1(FP-C04-029-MFG)
+Added Component: Designator=Q2(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q3(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q4(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q5(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q6(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q7(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q8(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q9(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q10(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q11(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q12(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q?(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q?(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q?(FP-PG-SOT23-3-MFG)
+Added Component: Designator=Q?(FP-PG-SOT23-3-MFG)
+Added Component: Designator=R2(FP-PCS2512-MFG)
+Added Component: Designator=R3(FP-KTR03-IPC_C)
+Added Component: Designator=R4(FP-RT0603-MFG)
+Added Component: Designator=R5(FP-KTR03-IPC_C)
+Added Component: Designator=R6(FP-AT0603-IPC_B)
+Added Component: Designator=R7(FP-PCS2512-MFG)
+Added Component: Designator=R8(RESC1005X40X25ML05T10)
+Added Component: Designator=R9(FP-TFCR0603-IPC_B)
+Added Component: Designator=R10(FP-RT0603-MFG)
+Added Component: Designator=R11(FP-TFCR0603-IPC_B)
+Added Component: Designator=R12(FP-TFCR0603-IPC_B)
+Added Component: Designator=R13(FP-TFCR0603-IPC_B)
+Added Component: Designator=R14(FP-TFCR0603-IPC_B)
+Added Component: Designator=R15(RESC2013X60X30NL20T20)
+Added Component: Designator=R16(RESC2013X60X30NL20T20)
+Added Component: Designator=R17(RESC2013X60X30NL20T20)
+Added Component: Designator=R18(FP-PCS2512-MFG)
+Added Component: Designator=R19(FP-MCR03-IPC_B)
+Added Component: Designator=R20(FP-RT0603-MFG)
+Added Component: Designator=R21(RESC2010(5025)_L)
+Added Component: Designator=R22(FP-TFCR0603-IPC_B)
+Added Component: Designator=R23(RESC2013X60X30NL20T20)
+Added Component: Designator=R24(FP-TFCR0603-IPC_B)
+Added Component: Designator=R25(RESC2013X60X30NL20T20)
+Added Component: Designator=R26(FP-PCS2512-MFG)
+Added Component: Designator=R27(FP-PCS2512-MFG)
+Added Component: Designator=R28(RESC2013X60X30NL20T20)
+Added Component: Designator=R29(RESC2013X60X30NL20T20)
+Added Component: Designator=R30(RESC1005X40X25ML05T05)
+Added Component: Designator=R31(FP-RT0603-MFG)
+Added Component: Designator=R32(FP-RT0603-MFG)
+Added Component: Designator=R33(FP-RN73R2A-IPC_B)
+Added Component: Designator=R34(RESC2013X60X30NL20T20)
+Added Component: Designator=R35(FP-TFCR0603-IPC_B)
+Added Component: Designator=R36(RESC2013X60X30NL20T20)
+Added Component: Designator=R37(RESC2013X60X30NL20T20)
+Added Component: Designator=R38(FP-TFCR0603-IPC_B)
+Added Component: Designator=R39(RESC1005X37X20ML05T10)
+Added Component: Designator=R40(RESC1005X40X25LL10T10)
+Added Component: Designator=R41(RESC1005X40X25LL10T10)
+Added Component: Designator=R42(RESC1005X40X25LL10T10)
+Added Component: Designator=R43(RESC1005X40X25LL10T10)
+Added Component: Designator=R44(RESC1005X40X25LL10T10)
+Added Component: Designator=R45(RESC1005X40X25LL10T10)
+Added Component: Designator=R46(RESC1005X40X25LL10T10)
+Added Component: Designator=R47(RESC1005X40X25LL10T10)
+Added Component: Designator=R48(RESC1005X40X25LL10T10)
+Added Component: Designator=R49(RESC1005X40X25LL10T10)
+Added Component: Designator=R50(RESC1005X40X25LL10T10)
+Added Component: Designator=R51(RESC1005X40X25LL10T10)
+Added Component: Designator=R52(RESC2013X55X40NL15T20)
+Added Component: Designator=R53(RESC1005X40X25LL10T10)
+Added Component: Designator=R54(RESC1005X40X25LL10T10)
+Added Component: Designator=R55(RESC1005X40X25LL10T10)
+Added Component: Designator=R56(RESC1005X40X25LL10T10)
+Added Component: Designator=R57(RESC1005X40X25LL10T10)
+Added Component: Designator=R58(RESC1005X40X25LL10T10)
+Added Component: Designator=R59(RESC1005X40X25LL10T10)
+Added Component: Designator=R60(RESC1005X40X25LL10T10)
+Added Component: Designator=R61(RESC1005X40X25LL10T10)
+Added Component: Designator=R62(RESC1005X40X25LL10T10)
+Added Component: Designator=R63(RESC1005X40X25LL10T10)
+Added Component: Designator=R64(RESC1005X40X25LL10T10)
+Added Component: Designator=R65(RESC1005X40X25LL10T10)
+Added Component: Designator=R66(RESC2013X60X30NL20T20)
+Added Component: Designator=R67(RESC2010(5025)_L)
+Added Component: Designator=R68(RESC2013X60X30NL20T20)
+Added Component: Designator=R69(RESC2013X60X30NL20T20)
+Added Component: Designator=R70(RESC2013X60X30NL20T20)
+Added Component: Designator=R71(RESC1005X40X25LL10T10)
+Added Component: Designator=R72(RESC1005X40X25LL10T10)
+Added Component: Designator=R73(RESC1005X40X25LL10T10)
+Added Component: Designator=R74(RESC1005X40X25LL10T10)
+Added Component: Designator=R75(RESC1005X40X25LL10T10)
+Added Component: Designator=R76(RESC1005X40X25LL10T10)
+Added Component: Designator=R77(RESC2013X60X30NL20T20)
+Added Component: Designator=R78(RESC1005X40X25LL10T10)
+Added Component: Designator=R79(RESC1005X40X25LL10T10)
+Added Component: Designator=R80(RESC1005X40X25LL10T10)
+Added Component: Designator=R81(RESC1005X40X25LL10T10)
+Added Component: Designator=R82(RESC1005X40X25LL10T10)
+Added Component: Designator=R83(RESC1005X40X25LL10T10)
+Added Component: Designator=R?(FP-MCS0402-IPC_A)
+Added Component: Designator=R?(RESC1005X40X25LL10T10)
+Added Component: Designator=R?(FP-MCS0402-IPC_A)
+Added Component: Designator=R?(RESC1005X40X25LL10T10)
+Added Component: Designator=R?(RESC1005X40X25LL10T10)
+Added Component: Designator=R?(RESC0603X26X15NL03T05)
+Added Component: Designator=R?(RESC1005X40X25LL10T10)
+Added Component: Designator=R?(FP-AF0402-MFG)
+Added Component: Designator=R?(FP-AF0402-MFG)
+Added Component: Designator=R?(FP-AF0402-MFG)
+Added Component: Designator=R?(FP-TFCR0402-IPC_A)
+Added Component: Designator=R?(FP-AF0402-MFG)
+Added Component: Designator=R?(FP-AF0402-MFG)
+Added Component: Designator=U1(ONSC-UDFN-8-517CB_V)
+Added Component: Designator=U2(ONSC-UDFN-8-517CB_V)
+Add Component: Footprint Not Found SOT-26_L3.0-W1.6-P0.95-LS2.8-BL
+Added Component: Designator=U4(FP-DBV0005A-IPC_C)
+Added Component: Designator=U5(FP-DDA0008E-MFG)
+Added Component: Designator=U6(FP-DBV0005A-IPC_C)
+Add Component: Footprint Not Found D8
+Added Component: Designator=U8(FP-DDA0008E-MFG)
+Added Component: Designator=U9(FP-DBV0005A-IPC_C)
+Added Component: Designator=U10(DDA0008E_N)
+Added Component: Designator=U11(FP-DDA0008E-MFG)
+Added Component: Designator=U12(FP-DBV0005A-IPC_C)
+Added Component: Designator=U13(FP-DBV0005A-IPC_C)
+Added Component: Designator=U14(ONSC-UDFN-8-517CB_V)
+Added Component: Designator=U15(QFN50P700X700X90-49N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UPD720202K8-711-BAA-A/Renesas/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Renesas Electronics America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UPD720202K8-711-BAA-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-48 Renesas Electronics America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UPD720202K8-711-BAA-A/Renesas/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U16(SOT23-6_3X1P75_STM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM6710DWB6F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U17(SOT23-6_3X1P75_STM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM6710DWB6F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL
+Add Component: Footprint Not Found TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL
+Add Component: Footprint Not Found MCHP-SOIC-SA8_L
+Added Component: Designator=U?(ONSC-UDFN-8-517CB_V)
+Added Component: Designator=U?(ONSC-UDFN-8-517CB_V)
+Added Component: Designator=USB1(USB-C-SMD_10174570-00A11LF)
+Add component (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "10172013-00011LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "10172013-00011LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C22466647"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(FP-ABM11-MFG)
+Added Pin To Net: NetName=+12 Pin=USB1-A4B9
+Added Pin To Net: NetName=+12 Pin=USB1-B4A9
+Added Net: Name=+12
+Added Net: Name=1V05_CB
+Added Pin To Net: NetName=1V8_CB Pin=U17-3
+Added Net: Name=1V8_CB
+Added Net: Name=1V8_CMx
+Added Pin To Net: NetName=3V3_CB Pin=U17-2
+Added Net: Name=3V3_CB
+Added Net: Name=3V3_CMx
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V0_CB Pin=CR?-5
+Added Pin To Net: NetName=5V0_CB Pin=U17-1
+Added Net: Name=5V0_CB
+Added Net: Name=12V0_CB
+Added Net: Name=CEC
+Added Net: Name=CM4_C\M\5\_BUILD
+Added Net: Name=CM5_INT
+Added Net: Name=CM5_USB3_0_O\C\
+Added Net: Name=CM5_USB3_1_O\C\
+Added Net: Name=CODEC_R\S\T\
+Added Net: Name=DSI_BRDG_R\S\T\
+Added Net: Name=ETH_L\E\D\1\
+Added Net: Name=ETH_L\E\D\2\
+Added Net: Name=ETH_L\E\D\3\
+Added Net: Name=ETH_P0_N
+Added Net: Name=ETH_P0_P
+Added Net: Name=ETH_P1_N
+Added Net: Name=ETH_P1_P
+Added Net: Name=ETH_P2_N
+Added Net: Name=ETH_P2_P
+Added Net: Name=ETH_P3_N
+Added Net: Name=ETH_P3_P
+Added Net: Name=EXP_MIPI_R\S\T\
+Added Net: Name=EXT_R\S\T\
+Added Pin To Net: NetName=GND Pin=CR?-2
+Added Pin To Net: NetName=GND Pin=U15-27
+Added Pin To Net: NetName=GND Pin=U15-49
+Added Pin To Net: NetName=GND Pin=U17-5
+Added Pin To Net: NetName=GND Pin=USB1-13
+Added Pin To Net: NetName=GND Pin=USB1-13
+Added Pin To Net: NetName=GND Pin=USB1-14
+Added Pin To Net: NetName=GND Pin=USB1-14
+Added Pin To Net: NetName=GND Pin=USB1-A1B12
+Added Pin To Net: NetName=GND Pin=USB1-B1A12
+Added Net: Name=GND
+Added Net: Name=HDMI_R\S\T\
+Added Net: Name=HPD
+Added Net: Name=I2C6.I2C_SCL
+Added Net: Name=I2S_DIN
+Added Net: Name=I2S_DOUT
+Added Net: Name=I2S_SCLK
+Added Net: Name=LED2
+Added Net: Name=M.2_R\S\T\
+Added Net: Name=MIPI0_GPIO
+Added Net: Name=NetC5_1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=L1-1
+Added Net: Name=NetC12_2
+Added Net: Name=NetC18_2
+Added Net: Name=NetC19_1
+Added Net: Name=NetC21_1
+Added Net: Name=NetC22_1
+Added Net: Name=NetC23_1
+Added Net: Name=NetC24_1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC25_2 Pin=L2-1
+Added Net: Name=NetC25_2
+Added Net: Name=NetC31_2
+Added Net: Name=NetC32_1
+Added Net: Name=NetC34_1
+Added Net: Name=NetC35_1
+Added Net: Name=NetC35_2
+Added Net: Name=NetC40_1
+Added Net: Name=NetC45_2
+Added Net: Name=NetC46_1
+Added Net: Name=NetC49_1
+Added Net: Name=NetC51_1
+Added Net: Name=NetC54_1
+Added Net: Name=NetC55_1
+Added Net: Name=NetC56_1
+Added Net: Name=NetC57_1
+Added Net: Name=NetC58_1
+Added Pin To Net: NetName=NetC68_1 Pin=U15-3
+Added Pin To Net: NetName=NetC68_1 Pin=U15-12
+Added Pin To Net: NetName=NetC68_1 Pin=U15-22
+Added Pin To Net: NetName=NetC68_1 Pin=U15-25
+Added Pin To Net: NetName=NetC68_1 Pin=U15-34
+Added Pin To Net: NetName=NetC68_1 Pin=U15-43
+Added Net: Name=NetC68_1
+Added Pin To Net: NetName=NetC75_1 Pin=U15-6
+Added Pin To Net: NetName=NetC75_1 Pin=U15-9
+Added Pin To Net: NetName=NetC75_1 Pin=U15-21
+Added Pin To Net: NetName=NetC75_1 Pin=U15-30
+Added Pin To Net: NetName=NetC75_1 Pin=U15-33
+Added Pin To Net: NetName=NetC75_1 Pin=U15-39
+Added Pin To Net: NetName=NetC75_1 Pin=U15-42
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetC83_2 Pin=U17-4
+Added Net: Name=NetC83_2
+Added Net: Name=NetC?_1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetCR?_3 Pin=CR?-3
+Added Net: Name=NetCR?_3
+Added Pin To Net: NetName=NetCR?_4 Pin=CR?-4
+Added Net: Name=NetCR?_4
+Added Net: Name=NetD3_2
+Added Net: Name=NetD4_2
+Added Net: Name=NetD5_2
+Added Net: Name=NetD6_2
+Added Net: Name=NetD7_2
+Added Net: Name=NetD8_2
+Added Net: Name=NetD?_1
+Added Net: Name=NetD?_2
+Added Net: Name=NetHDMI1_17
+Added Net: Name=NetJ1_1
+Added Net: Name=NetJ1_2
+Added Net: Name=NetJ1_3
+Added Net: Name=NetJ1_4
+Added Net: Name=NetJ1_5
+Added Net: Name=NetJ1_6
+Added Net: Name=NetJ1_8
+Added Net: Name=NetJ1_9
+Added Net: Name=NetJ1_11
+Added Net: Name=NetJ1_14
+Added Net: Name=NetJ1_15
+Added Net: Name=NetJ1_16
+Added Net: Name=NetJ1_17
+Added Net: Name=NetJ1_18
+Added Net: Name=NetJ1_20
+Added Net: Name=NetJ1_21
+Added Net: Name=NetJ1_22
+Added Net: Name=NetJ1_23
+Added Net: Name=NetJ1_24
+Added Net: Name=NetJ1_26
+Added Net: Name=NetJ1_27
+Added Net: Name=NetJ1_28
+Added Net: Name=NetJ1_29
+Added Net: Name=NetJ1_30
+Added Net: Name=NetJ1_32
+Added Net: Name=NetJ1_33
+Added Net: Name=NetJ1_34
+Added Net: Name=NetJ1_35
+Added Net: Name=NetJ1_36
+Added Net: Name=NetJ1_38
+Added Net: Name=NetJ1_39
+Added Net: Name=NetJ1_40
+Added Net: Name=NetJ1_41
+Added Net: Name=NetJ1_42
+Added Net: Name=NetJ1_43
+Added Net: Name=NetJ1_44
+Added Net: Name=NetJ1_45
+Added Net: Name=NetJ1_46
+Added Net: Name=NetJ1_47
+Added Net: Name=NetJ1_48
+Added Net: Name=NetJ1_49
+Added Net: Name=NetJ1_50
+Added Net: Name=NetJ1_52
+Added Net: Name=NetJ1_54
+Added Net: Name=NetJ1_56
+Added Net: Name=NetJ1_57
+Added Net: Name=NetJ1_58
+Added Net: Name=NetJ1_59
+Added Net: Name=NetJ1_60
+Added Net: Name=NetJ1_62
+Added Net: Name=NetJ1_63
+Added Net: Name=NetJ1_64
+Added Net: Name=NetJ1_65
+Added Net: Name=NetJ1_66
+Added Net: Name=NetJ1_68
+Added Net: Name=NetJ1_69
+Added Net: Name=NetJ1_71
+Added Net: Name=NetJ1_74
+Added Net: Name=NetJ1_75
+Added Net: Name=NetJ1_77
+Added Net: Name=NetJ1_80
+Added Net: Name=NetJ1_81
+Added Net: Name=NetJ1_83
+Added Net: Name=NetJ1_86
+Added Net: Name=NetJ1_87
+Added Net: Name=NetJ1_89
+Added Net: Name=NetJ1_92
+Added Net: Name=NetJ1_93
+Added Net: Name=NetJ1_94
+Added Net: Name=NetJ1_95
+Added Net: Name=NetJ1_96
+Added Net: Name=NetJ1_98
+Added Net: Name=NetJ2_16
+Added Net: Name=NetJ2_18
+Added Net: Name=NetJ2_20
+Added Net: Name=NetJ2_24
+Added Net: Name=NetJ2_25
+Added Net: Name=NetJ2_26
+Added Net: Name=NetJ2_28
+Added Net: Name=NetJ2_30
+Added Net: Name=NetJ2_31
+Added Net: Name=NetJ2_34
+Added Net: Name=NetJ2_35
+Added Net: Name=NetJ2_36
+Added Net: Name=NetJ2_38
+Added Net: Name=NetJ2_40
+Added Net: Name=NetJ2_44
+Added Net: Name=NetJ2_46
+Added Net: Name=NetJ2_48
+Added Net: Name=NetJ2_49
+Added Net: Name=NetJ2_50
+Added Net: Name=NetJ2_54
+Added Net: Name=NetJ2_55
+Added Net: Name=NetJ2_56
+Added Net: Name=NetJ2_58
+Added Net: Name=NetJ2_62
+Added Net: Name=NetJ2_64
+Added Net: Name=NetJ2_68
+Added Net: Name=NetJ2_70
+Added Net: Name=NetJ2_72
+Added Net: Name=NetJ2_73
+Added Net: Name=NetJ2_76
+Added Net: Name=NetJ2_77
+Added Net: Name=NetJ2_78
+Added Net: Name=NetJ2_79
+Added Net: Name=NetJ2_80
+Added Net: Name=NetJ2_81
+Added Net: Name=NetJ2_82
+Added Net: Name=NetJ2_83
+Added Net: Name=NetJ2_85
+Added Net: Name=NetJ2_87
+Added Net: Name=NetJ2_89
+Added Net: Name=NetJ2_91
+Added Net: Name=NetJ2_92
+Added Net: Name=NetJ2_93
+Added Net: Name=NetJ2_94
+Added Net: Name=NetJ2_96
+Added Net: Name=NetJ2_100
+Added Net: Name=NetJ3_2
+Added Net: Name=NetJ3_6
+Added Net: Name=NetJ3_7
+Added Net: Name=NetJ3_8
+Added Net: Name=NetJ3_9
+Added Net: Name=NetJ3_12
+Added Net: Name=NetJ3_14
+Added Net: Name=NetJ3_15
+Added Net: Name=NetJ3_16
+Added Net: Name=NetJ3_21
+Added Net: Name=NetJ3_22
+Added Net: Name=NetJ3_23
+Added Net: Name=NetJ3_27
+Added Net: Name=NetJ3_28
+Added Net: Name=NetJ3_29
+Added Net: Name=NetJ3_30
+Added Net: Name=NetJ3_31
+Added Net: Name=NetJ3_32
+Added Net: Name=NetJ3_33
+Added Net: Name=NetJ3_34
+Added Net: Name=NetJ3_35
+Added Net: Name=NetJ3_36
+Added Net: Name=NetJ3_37
+Added Net: Name=NetJ3_38
+Added Net: Name=NetJ3_41
+Added Net: Name=NetJ3_42
+Added Net: Name=NetJ3_43
+Added Net: Name=NetJ3_44
+Added Net: Name=NetJ3_46
+Added Net: Name=NetJ3_49
+Added Net: Name=NetJ3_50
+Added Net: Name=NetJ3_51
+Added Net: Name=NetJ3_52
+Added Net: Name=NetJ3_53
+Added Net: Name=NetJ3_54
+Added Net: Name=NetJ3_55
+Added Net: Name=NetJ3_56
+Added Net: Name=NetJ3_57
+Added Net: Name=NetJ3_58
+Added Net: Name=NetJ3_61
+Added Net: Name=NetJ3_62
+Added Net: Name=NetJ3_63
+Added Net: Name=NetJ?_1
+Added Net: Name=NetJ?_2
+Added Net: Name=NetQ1_1
+Added Net: Name=NetQ2_1
+Added Net: Name=NetQ2_3
+Added Net: Name=NetQ4_3
+Added Net: Name=NetQ5_1
+Added Net: Name=NetQ5_3
+Added Net: Name=NetQ6_2
+Added Net: Name=NetQ8_1
+Added Net: Name=NetQ10_1
+Added Net: Name=NetQ10_3
+Added Net: Name=NetQ11_2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetR3_1 Pin=USB1-B5
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR5_1 Pin=USB1-A5
+Added Net: Name=NetR5_1
+Added Net: Name=NetR29_2
+Added Net: Name=NetR41_1
+Added Net: Name=NetR43_1
+Added Net: Name=NetR48_1
+Added Net: Name=NetR57_2
+Added Net: Name=NetR58_1
+Added Net: Name=NetR59_1
+Added Net: Name=NetR60_1
+Added Net: Name=NetR61_1
+Added Net: Name=NetR62_1
+Added Net: Name=NetR63_1
+Added Net: Name=NetR64_1
+Added Net: Name=NetR71_1
+Added Net: Name=NetR72_1
+Added Net: Name=NetR73_1
+Added Net: Name=NetR74_1
+Added Net: Name=NetR75_1
+Added Net: Name=NetR76_1
+Added Net: Name=NetR78_1
+Added Net: Name=NetR78_2
+Added Net: Name=NetR79_1
+Added Net: Name=NetR80_1
+Added Net: Name=NetR81_1
+Added Net: Name=NetR82_1
+Added Net: Name=NetR82_2
+Added Net: Name=NetR83_1
+Added Net: Name=NetR83_2
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Added Net: Name=NetU1_9
+Added Net: Name=NetU1_10
+Added Net: Name=NetU2_9
+Added Net: Name=NetU2_10
+Added Net: Name=NetU14_1
+Added Net: Name=NetU14_2
+Added Net: Name=NetU14_8
+Added Net: Name=NetU14_9
+Added Net: Name=NetU14_10
+Added Pin To Net: NetName=NetU15_4 Pin=U15-4
+Added Net: Name=NetU15_4
+Added Pin To Net: NetName=NetU15_5 Pin=U15-5
+Added Net: Name=NetU15_5
+Added Pin To Net: NetName=NetU15_7 Pin=U15-7
+Added Net: Name=NetU15_7
+Added Pin To Net: NetName=NetU15_8 Pin=U15-8
+Added Net: Name=NetU15_8
+Added Pin To Net: NetName=NetU15_10 Pin=U15-10
+Added Net: Name=NetU15_10
+Added Pin To Net: NetName=NetU15_13 Pin=U15-13
+Added Net: Name=NetU15_13
+Added Pin To Net: NetName=NetU15_14 Pin=U15-14
+Added Net: Name=NetU15_14
+Added Pin To Net: NetName=NetU15_15 Pin=U15-15
+Added Net: Name=NetU15_15
+Added Pin To Net: NetName=NetU15_16 Pin=U15-16
+Added Net: Name=NetU15_16
+Added Pin To Net: NetName=NetU15_17 Pin=U15-17
+Added Net: Name=NetU15_17
+Added Pin To Net: NetName=NetU15_18 Pin=U15-18
+Added Net: Name=NetU15_18
+Added Pin To Net: NetName=NetU15_19 Pin=U15-19
+Added Net: Name=NetU15_19
+Added Pin To Net: NetName=NetU15_20 Pin=U15-20
+Added Net: Name=NetU15_20
+Added Pin To Net: NetName=NetU15_23 Pin=U15-23
+Added Net: Name=NetU15_23
+Added Pin To Net: NetName=NetU15_24 Pin=U15-24
+Added Net: Name=NetU15_24
+Added Pin To Net: NetName=NetU15_26 Pin=U15-26
+Added Net: Name=NetU15_26
+Added Pin To Net: NetName=NetU15_28 Pin=U15-28
+Added Net: Name=NetU15_28
+Added Pin To Net: NetName=NetU15_29 Pin=U15-29
+Added Net: Name=NetU15_29
+Added Pin To Net: NetName=NetU15_31 Pin=U15-31
+Added Net: Name=NetU15_31
+Added Pin To Net: NetName=NetU15_32 Pin=U15-32
+Added Net: Name=NetU15_32
+Added Pin To Net: NetName=NetU15_35 Pin=U15-35
+Added Net: Name=NetU15_35
+Added Pin To Net: NetName=NetU15_36 Pin=U15-36
+Added Net: Name=NetU15_36
+Added Pin To Net: NetName=NetU15_37 Pin=U15-37
+Added Net: Name=NetU15_37
+Added Pin To Net: NetName=NetU15_38 Pin=U15-38
+Added Net: Name=NetU15_38
+Added Pin To Net: NetName=NetU15_40 Pin=U15-40
+Added Net: Name=NetU15_40
+Added Pin To Net: NetName=NetU15_41 Pin=U15-41
+Added Net: Name=NetU15_41
+Added Pin To Net: NetName=NetU15_44 Pin=U15-44
+Added Net: Name=NetU15_44
+Added Pin To Net: NetName=NetU15_45 Pin=U15-45
+Added Net: Name=NetU15_45
+Added Pin To Net: NetName=NetU15_46 Pin=U15-46
+Added Net: Name=NetU15_46
+Added Pin To Net: NetName=NetU15_47 Pin=U15-47
+Added Net: Name=NetU15_47
+Added Pin To Net: NetName=NetU15_48 Pin=U15-48
+Added Net: Name=NetU15_48
+Added Pin To Net: NetName=NetU16_1 Pin=U16-1
+Added Net: Name=NetU16_1
+Added Pin To Net: NetName=NetU16_2 Pin=U16-2
+Added Net: Name=NetU16_2
+Added Pin To Net: NetName=NetU16_3 Pin=U16-3
+Added Net: Name=NetU16_3
+Added Pin To Net: NetName=NetU16_4 Pin=U16-4
+Added Net: Name=NetU16_4
+Added Pin To Net: NetName=NetU16_5 Pin=U16-5
+Added Net: Name=NetU16_5
+Added Pin To Net: NetName=NetU16_6 Pin=U16-6
+Added Net: Name=NetU16_6
+Added Net: Name=NetU?_1
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Added Net: Name=NetU?_2
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Added Net: Name=NetU?_3
+Add Net: Net with name "NetU?_3" already exists
+Add Net: Net with name "NetU?_3" already exists
+Added Net: Name=NetU?_4
+Add Net: Net with name "NetU?_4" already exists
+Add Net: Net with name "NetU?_4" already exists
+Added Net: Name=NetU?_5
+Add Net: Net with name "NetU?_5" already exists
+Add Net: Net with name "NetU?_5" already exists
+Added Net: Name=NetU?_6
+Add Net: Net with name "NetU?_6" already exists
+Add Net: Net with name "NetU?_6" already exists
+Added Net: Name=NetU?_7
+Add Net: Net with name "NetU?_7" already exists
+Add Net: Net with name "NetU?_7" already exists
+Added Net: Name=NetU?_8
+Add Net: Net with name "NetU?_8" already exists
+Add Net: Net with name "NetU?_8" already exists
+Added Net: Name=NetU?_9
+Add Net: Net with name "NetU?_9" already exists
+Added Net: Name=NetU?_10
+Add Net: Net with name "NetU?_10" already exists
+Added Pin To Net: NetName=NetUSB1_A6 Pin=USB1-A6
+Added Net: Name=NetUSB1_A6
+Added Pin To Net: NetName=NetUSB1_A7 Pin=USB1-A7
+Added Net: Name=NetUSB1_A7
+Added Pin To Net: NetName=NetUSB1_A8 Pin=USB1-A8
+Added Net: Name=NetUSB1_A8
+Added Pin To Net: NetName=NetUSB1_B6 Pin=USB1-B6
+Added Net: Name=NetUSB1_B6
+Added Pin To Net: NetName=NetUSB1_B7 Pin=USB1-B7
+Added Net: Name=NetUSB1_B7
+Added Pin To Net: NetName=NetUSB1_B8 Pin=USB1-B8
+Added Net: Name=NetUSB1_B8
+Added Net: Name=P\I\_\L\E\D\_\A\C\T\
+Added Pin To Net: NetName=PECLK_N Pin=U15-2
+Added Net: Name=PECLK_N
+Added Pin To Net: NetName=PECLK_P Pin=U15-1
+Added Net: Name=PECLK_P
+Added Net: Name=PIC_DBG_RXD
+Added Net: Name=PIC_DBG_TXD
+Added Net: Name=PIC_R\S\T\
+Added Net: Name=POWER_KILL
+Added Pin To Net: NetName=PWG Pin=U17-6
+Added Net: Name=PWG
+Added Net: Name=PWM_0
+Added Net: Name=RPI_LED_P\W\R\
+Added Net: Name=RXD0
+Added Net: Name=SCL
+Added Net: Name=SD_PWR_ON
+Added Net: Name=SDA
+Added Net: Name=SDIO_CLK
+Added Net: Name=SDIO_D0
+Added Net: Name=SDIO_D1
+Added Net: Name=SDIO_D2
+Added Net: Name=SDIO_D3
+Added Net: Name=SPI2.SPI_C\S\
+Added Net: Name=TFT_POWER_R\S\T\
+Added Net: Name=TFT_TOUCH_R\S\T\
+Added Net: Name=TMDS_Clock_N
+Added Net: Name=TMDS_Clock_P
+Added Net: Name=TMDS_DATA0_N
+Added Net: Name=TMDS_DATA0_P
+Added Net: Name=TMDS_DATA1_N
+Added Net: Name=TMDS_DATA1_P
+Added Net: Name=TMDS_DATA2_N
+Added Net: Name=TMDS_DATA2_P
+Added Net: Name=TXD0
+Added Pin To Net: NetName=USB_HUB_R\S\T\ Pin=U15-11
+Added Net: Name=USB_HUB_R\S\T\
+Added Net: Name=USB_OTG
+Added Pin To Net: NetName=V_out1 Pin=L1-2
+Added Net: Name=V_out1
+Added Pin To Net: NetName=V_out2 Pin=L2-2
+Added Net: Name=V_out2
+Added Net: Name=V_out3
+Added Net: Name=VFB1
+Added Net: Name=VFB2
+Added Net: Name=VFB3
+Added Pin To Net: NetName=W\D\O\G\_\I\N\ Pin=CR?-1
+Added Net: Name=W\D\O\G\_\I\N\
+Added Net: Name=WDOG
+Added Class: Name=CM4_CM5_DF40Conn
+Added Class: Name=HDMI_RPI
+Added Class: Name=M2_Expansion
+Added Class: Name=PIC32AK1216
+Added Class: Name=Power_Supply_Input
+Added Class: Name=Power_Watch_dog
+Added Class: Name=Supervisor_IC
+Added Class: Name=USB_3
+Added Class: Name=USB_Hub
+Added Differential Pair: Name=TMDS_Clock
+Added Differential Pair: Name=TMDS_DATA0
+Added Differential Pair: Name=TMDS_DATA1
+Added Differential Pair: Name=TMDS_DATA2
+Added Room: Name=CM4_CM5_DF40Conn
+Added Room: Name=HDMI_RPI
+Added Room: Name=M2_Expansion
+Added Room: Name=PIC32AK1216
+Added Room: Name=Power_Supply_Input
+Added Room: Name=Power_Watch_dog
+Added Room: Name=Supervisor_IC
+Added Room: Name=USB_3
+Added Room: Name=USB_Hub
